@@ -1,70 +1,45 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+---
+backend server is running on PORT 5001 and front end server is running on PORT 3000
+### **Explanation of the Sections**:
 
-## Available Scripts
+1. **Project Title and Description**: 
+   - A brief overview of your app and its functionality.
+   
+2. **Features**: 
+   - Key features such as Geolocation, Manual Search, Google Maps integration, and saving addresses.
 
-In the project directory, you can run:
+3. **Screenshots**: 
+   - Include a screenshot of your app so that users know what to expect visually. Replace `assets/images/your-image.jpg` with the correct path to your screenshot image.
 
-### `npm start`
+4. **Requirements**: 
+   - List the required keys or credentials like the **Google Maps API key**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+5. **Getting Started**: 
+   - Instructions for cloning the repository, setting up the project locally, and running it.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+6. **Deployment**: 
+   - Instructions on how to deploy the app to platforms like Netlify or Vercel.
 
-### `npm test`
+7. **Technologies Used**: 
+   - A list of technologies and libraries you used in the project (React, Material-UI, etc.).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+8. **Contributing**: 
+   - Instructions for other developers who want to contribute to your project.
 
-### `npm run build`
+9. **License**: 
+   - Mention that the project is licensed under the **MIT License** (or any other license you choose).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+10. **Acknowledgments**: 
+   - Give credit to libraries or APIs you’ve used, like Google Maps and Material-UI.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### **Customizing the README**:
+- Update the **API Key** section if you need specific instructions on how to get the Google Maps API key.
+- Replace **"your-image.jpg"** with the actual path to your screenshot.
+- Update the technologies section to match exactly what you used in your project.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This **README.md** will guide users on how to set up, run, and contribute to your project, and give them a good overview of your app's functionality. Let me know if you need further modifications!
