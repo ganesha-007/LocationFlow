@@ -10,7 +10,7 @@ This is a web application that allows users to track and manage locations, displ
 - **Responsive Design**: The app is designed to be responsive, ensuring it works seamlessly on both desktop and mobile devices.
 
 ## Screenshot
-![App Screenshot](public/assets/application_demo.png)
+![App Screenshot](public/assests/application_demo.png)
 
 ## Requirements
 - **Google Maps API Key**: You need a valid Google Maps API key to use the map functionality. [Get your API key here](https://cloud.google.com/maps-platform).
